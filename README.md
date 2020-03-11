@@ -46,7 +46,7 @@ With this tool, you can run your web application on a browser and imitate user a
 Puppeteer API is not designed for testing and it doesn't provide you the whole functionality of a testing framework. Therefore, it can be used with [Jest](https://jestjs.io/) JavaScript testing framework. The samples on this blog post use [jest-puppeteer](https://www.npmjs.com/package/jest-puppeteer) Nodejs library. It provides all required configuration for writing integration tests using Puppeteer with Jest.
 
 ### Samples
-This section provides a couple of examples to give you better insights into Puppeteer's usage. They don't cover all the futures of the Puppeteer and this blog post doesn't aim to give you the detailed information of Puppeteer API. You can build upon the given examples and explained concepts.
+This section provides a couple of examples to give you better insights into Puppeteer's usage. They don't cover all the features of Puppeteer and this blog post doesn't aim to give you detailed information of the Puppeteer API. You can build upon the given examples and explained concepts.
 
 The shown examples are also available at this [GitHub repository](https://github.com/ilhan-mstf/puppeteer-investigation). 
 
