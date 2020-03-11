@@ -56,7 +56,7 @@ Puppeteer API is not designed for testing and it doesn't provide you the whole f
 ### Samples
 This section provides a couple of examples to give you better insights into Puppeteer's usage. They don't cover all the features of Puppeteer and this blog post doesn't aim to give you detailed information of the Puppeteer API. You can build upon the given examples and explained concepts.
 
-The shown examples are also available at this [GitHub repository](https://github.com/ilhan-mstf/puppeteer-investigation). 
+The shown examples are also available at this [GitHub repository](https://github.com/designisdead/puppeteer-investigation). 
 
 #### Prerequistes and Installation
 You need:
